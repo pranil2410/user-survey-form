@@ -34,7 +34,7 @@ How to Use
 
 2. Open index.html in your browser.
 
-3.Edit styles.css to customize styling.
+3. Edit styles.css to customize styling.
 
 Folder Structure
 
