@@ -39,7 +39,9 @@ How to Use
 Folder Structure
 
 survey-form/
+
   ├─ index.html
+
   └─ styles.css
 
 
