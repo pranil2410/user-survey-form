@@ -45,5 +45,4 @@ survey-form/
   └─ styles.css
 
 
-Open source — add your preferred license if required.
-
+Open source License.
